@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bineethreddy25
 - 👀 I’m interested in ... Learning new Skills
 - 🌱 I’m currently learning ... Data Science, Deep learning
-- I'm Cetified Web designer
+- I'm a Certified Web designer
 - Completed two projects ->1. Hand Written digit recognition by Convolutional neural networks , 2. Overfitting Reduction of pose estimation for deep learning Visual Odometry
 - B.Tech Graduate in Computer Science and Engineering 
 - Working as Intern in Value Momentum
